@@ -1,0 +1,7 @@
+
+chsh -s /bin/bash
+
+pip install packagename or conda install
+
+chsh -s /bin/zsh
+
