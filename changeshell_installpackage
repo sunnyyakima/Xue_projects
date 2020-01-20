@@ -3,6 +3,7 @@ chsh -s /bin/bash
 
 Anaconda navigate -->>. base root -->> open terminal 
 pip install packagename or conda install
+pip install [package_name] --upgrade
 exit terminal
 
 open new terminal
